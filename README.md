@@ -4,8 +4,9 @@ GPU Resource prediction dataset for DNN workloads.
 
 ## Requirements
 1. Tensorflow-gpu: Tensorflow with GPU support
-2. Nvidia GPU, CUDA drivers
-3. HLO to NPZ module from https://github.com/google-research-datasets/tpu_graphs#graph-feature-extraction
+2. Numpy, pandas
+3. Nvidia GPU, CUDA drivers
+4. HLO to NPZ module from https://github.com/google-research-datasets/tpu_graphs#graph-feature-extraction
    
 ## Description
 Generates data using two python script files - pipeline.py and train.py
