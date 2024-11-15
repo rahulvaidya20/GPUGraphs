@@ -1,7 +1,6 @@
 import os
 import time
 import argparse
-import xmltodict
 import subprocess as sp
 import numpy as np
 from pathlib import Path
