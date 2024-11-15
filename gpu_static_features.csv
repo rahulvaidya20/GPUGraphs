@@ -1,0 +1,4 @@
+gpu_make,gpu_name,gpu_arch,gpu_cc,gpu_core_count,gpu_sm_count,gpu_memory_size,gpu_memory_type,gpu_memory_bw,gpu_tensor_core_count
+Nvidia,P100,Tesla,6.0,3584,56,16,hbm2,732.2,0
+Nvidia,V100,Tesla,7.0,5120,80,32,hbm2,1130.0,640
+Nvidia,A100,Ampere,8.0,6912,108,80,hbm2e,2040.0,432
